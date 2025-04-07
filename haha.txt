@@ -1,0 +1,14 @@
+Question: what is the color of the sun?
+A: yellow
+B: red
+C: white
+D: blue
+Correct Answer: C
+
+Question: what is the Capital of the Philippines?
+A: Manila
+B: Baguio
+C: Tondo
+D: Paranaque
+Correct Answer: A
+
